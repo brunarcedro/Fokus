@@ -24,7 +24,7 @@ Here's what you can do with Fokus:
 
 ## Running the Project
 
-To run the project in open [Fokus Website](https://taskfokus.vercel.app)
+To run the project open [Fokus Website](https://taskfokus.vercel.app)
 
 
 
