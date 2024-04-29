@@ -321,6 +321,29 @@ h1, h2, h3, h4, h5, h6 {
         padding: 10px;
     }
 
+    .app__logo-figure {
+        width: 7rem;
+    }
+
+    .app__card-button {
+        font-size: 1.2rem;
+    }
+
+    .app__card-primary-button {
+        padding: 1rem;
+        width: 10rem;
+        height: 4rem;
+        font-size: 1.4rem;
+    }
+
+    .app__footer-text {
+        font-size: 1.2rem;
+    }
+    .app__card-list-label {
+        font-size: 1.5rem;
+
+    }
+
     .app__section-banner-container {
         width: 32rem;
     }
